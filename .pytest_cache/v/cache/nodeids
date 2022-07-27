@@ -1,0 +1,9 @@
+[
+  "tests/test_lottery.py::test_get_entrance_fee",
+  "tests/test_lottery_integration.py::test_can_pick_winner",
+  "tests/test_lottery_unit.py::test_can_end_lottery",
+  "tests/test_lottery_unit.py::test_can_pick_winner_correctly",
+  "tests/test_lottery_unit.py::test_can_start_and_enter_lottery",
+  "tests/test_lottery_unit.py::test_cant_enter_unless_started",
+  "tests/test_lottery_unit.py::test_get_entrance_fee"
+]
